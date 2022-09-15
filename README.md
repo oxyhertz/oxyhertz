@@ -1,6 +1,6 @@
 Welcome file
 Welcome file
-#  Hi  👋, I'm Dima
+# <center> Hi  👋, I'm Dima</center>
 
   -   🔭  I’m currently looking for  **the next challenge.**
     
