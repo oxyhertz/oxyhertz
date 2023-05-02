@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="[https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png](https://res.cloudinary.com/oxyhertz/image/upload/v1683035196/Hi_I_m_Dima_tne4ya.png)" />
+<img src="https://res.cloudinary.com/oxyhertz/image/upload/v1683035196/Hi_I_m_Dima_tne4ya.png" />
 - 🔭 I’m currently working on **react**
 
 - 🌱 I’m currently learning **python**
