@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dima</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+
 <p align="center">
  
 </p align="center">
